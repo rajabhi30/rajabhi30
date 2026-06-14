@@ -1,28 +1,105 @@
-<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
-<h3 align="center">Dreamer</h3>
+<h1 align="center">Hi 👋, I'm Tinkal Raj</h1>
+<h3 align="center">🚀 Passionate Software Developer | DSA Enthusiast | MERN Stack Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajabhi30&label=Profile%20views&color=0e75b6&style=flat" alt="rajabhi30" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajabhi30" alt="rajabhi30" /></a> </p>
-
-- 🌱 I’m currently learning **React.js**
-
-- 📫 How to reach me **rajabhishek8070@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar1226/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar1226/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/kumar.abhishek.210467" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kumar.abhishek.210467" height="30" width="40" /></a>
-<a href="https://instagram.com/rajabhi_26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajabhi_26" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/tinkal001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/tinkal001/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/rajabhi26?tab=activity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/rajabhi26?tab=activity" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajabhi30&show_icons=true&locale=en&layout=compact" alt="rajabhi30" /></p>
+### 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajabhi30&show_icons=true&locale=en" alt="rajabhi30" /></p>
+- 🌱 Currently learning **MERN Stack & Advanced React**
+- 📚 Strengthening my **Data Structures & Algorithms** skills
+- 📱 Interested in **Android Development using Kotlin**
+- 💡 Love building projects that solve real-world problems
+- 🎯 Goal: **Crack top product-based company interviews**
+- ⚡ Fun fact: **I enjoy discussing technology and continuously learning new things**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajabhi30&" alt="rajabhi30" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
+</a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
+</a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,kotlin,javascript,react,nodejs,express,mongodb,mysql,html,css,tailwind,redux,git,github,vscode,androidstudio" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### 💬 Real-Time Chat Application
+- MERN Stack based chat application
+- Authentication with JWT
+- Real-time messaging using Socket.IO
+
+#### 🗺️ Map-Based Drawing Application
+- Interactive map integration
+- Spatial drawing capabilities
+- React-based frontend
+
+#### 📱 Android Projects
+- Built Android applications using Kotlin
+- Following modern Android development practices
+
+---
+
+### 💻 Coding Profiles
+
+<p align="left">
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://codeforces.com/profile/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Consistency beats intensity. Keep learning, keep building."</i>
+</p>
